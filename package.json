@@ -1,0 +1,20 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmogi/udemy-fs-angular-nestjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmogi/udemy-fs-angular-nestjs/issues"
+  },
+  "homepage": "https://github.com/johnmogi/udemy-fs-angular-nestjs#readme"
+}
